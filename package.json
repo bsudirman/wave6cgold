@@ -1,0 +1,23 @@
+{
+  "name": "wave6cgold",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsudirman/wave6cgold.git"
+  },
+  "author": "basofi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsudirman/wave6cgold/issues"
+  },
+  "homepage": "https://github.com/bsudirman/wave6cgold#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
